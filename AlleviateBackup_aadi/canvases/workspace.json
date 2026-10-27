@@ -1,1 +1,48 @@
-{}
+{
+  "openTabIds": [
+    "f17d1fe5-c5d9-4bf7-8fea-ba764fe23615",
+    "dde5572f-3ff3-4bcc-b86c-a0213a8c5d29",
+    "27613d0f-be52-44a0-a54b-a9ca7b3b6827",
+    "4372025b-510d-42cb-8e6b-e98489c107e4",
+    "0f1065fe-3ae6-4fd2-bae1-e2d4272ea62b",
+    "45b438fc-6461-43cc-9bc7-16543ff10b9e"
+  ],
+  "pinnedIds": [],
+  "pinnedResourceIds": [],
+  "activeId": "45b438fc-6461-43cc-9bc7-16543ff10b9e",
+  "focusedPaneId": "45b438fc-6461-43cc-9bc7-16543ff10b9e",
+  "splitLayout": null,
+  "resources": [
+    {
+      "id": "resource-scratchpad",
+      "name": "Scratchpad",
+      "parentId": null
+    },
+    {
+      "id": "b8b15a43-6606-450f-82de-a7697af55a1b",
+      "name": "Computer",
+      "parentId": "resource-scratchpad"
+    },
+    {
+      "id": "90d55508-76d2-45e1-8f20-7a795ce458c1",
+      "name": "Geeta",
+      "parentId": "resource-scratchpad"
+    },
+    {
+      "id": "13f9e44e-7e72-45e0-ae3c-fd16974d39ea",
+      "name": "New resource card",
+      "parentId": "resource-scratchpad"
+    },
+    {
+      "id": "3656ef35-5ca2-417a-9c2f-f3d6ea036ff7",
+      "name": "Mindset",
+      "parentId": "resource-scratchpad"
+    }
+  ],
+  "selectedResourceId": "90d55508-76d2-45e1-8f20-7a795ce458c1",
+  "expandedResourceIds": [
+    "resource-scratchpad",
+    "3656ef35-5ca2-417a-9c2f-f3d6ea036ff7",
+    "90d55508-76d2-45e1-8f20-7a795ce458c1"
+  ]
+}
