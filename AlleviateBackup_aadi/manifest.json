@@ -1,0 +1,22 @@
+{
+  "format": "alleviate-github-backup",
+  "version": 1,
+  "updatedAt": "2026-10-27T13:29:30.156Z",
+  "files": {
+    "app-data/YWxsZXZpYXRlLWNhbnZhcy1kb2N1bWVudHMtdjItbWlncmF0ZWQ.json": "25de92bda2ea6e7306c478906d9129a828e70bbdff7a9888e6f198440460e757",
+    "books/pdfs/index.json": "3db652ae4e93129114e73b31d7be170a8361f0b0bc637ea554ab3f4920feacd4",
+    "canvases/images-index.json": "99e4faea76530b24b86a0904b7e4e205231c390203e0a017444d2c1ff0ee9ccf",
+    "canvases/index.json": "d2a58b188fc6c194d46d4b4febb7d840d569160a066f9884201921abce27fc9e",
+    "canvases/workspace.json": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "mind-maps/index.json": "1335b8d367981d1ced7d405dcff0d8c02645b86b243f17a4479fdc34f9656fb9",
+    "mind-maps/maps/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0.json": "a5173245a0a6db5360550913e5e5564777ad04c841e642d392b6dcdeb71b6225",
+    "mind-maps/state-index.json": "e98b7a8cb6bee3e19350720df6cd45f22b5c6ba1aee5148ae01c294cc4e93f3c",
+    "mind-maps/state/YWxsZXZpYXRlLXdpc2VtYXBwaW5nLW1hcHMtdjE.json": "6b2f8fef8ff48841c210eb3d2e559097bf5f7f933293e66ffd2d3d8754b11149",
+    "mind-maps/state/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0LW9iamVjdC1pZHM.json": "7ad74ad7684c41187341c79dc6021650e69d364bb2577d6a54d4f5ef8b158f98",
+    "mind-maps/state/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0LW9iamVjdHM.json": "376e8b04bf04e892c415fcac8fe9d47317516db11036a49d98ac1fbffb4fd3d4",
+    "mind-maps/state/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0LWRlZmF1bHQtc2VlZGVk.json": "ce26118387ad405712c1659e099a89e3ca1a0da6930962358a00b3feca73dcf2",
+    "mind-maps/state/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0LWZlZWRiYWNrLWFjdGlvbi1ub2RlLWlkcw.json": "3c152e54b0561f865dbd37aa399e95c538aaf4c6577fa8b4908619d5cae3ea35",
+    "mind-maps/state/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0LXhtbA.json": "966a1aefe78a2421c690a08e6c2f8e6f8bcc4a7bda30a8171e6895e141c73efa"
+  },
+  "deleted": []
+}
