@@ -1,0 +1,8 @@
+{
+  "map": {
+    "id": "alleviate-resources-default",
+    "title": "LifeMap",
+    "updatedAt": 1793092719754
+  },
+  "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><map version=\"tango\" theme=\"prism\"><topic central=\"true\" id=\"1\" shape=\"rounded rectangle\" text=\"You\"><topic id=\"2\" order=\"0\" text=\"Personal Wellbeing\"><topic id=\"3\" order=\"0\" shape=\"rounded rectangle\" text=\"Body\"/><topic id=\"4\" order=\"0\" shape=\"rounded rectangle\" text=\"Mind\"/></topic><topic id=\"5\" order=\"0\" text=\"Value Creation\"><topic id=\"6\" order=\"0\" shape=\"rounded rectangle\" text=\"Job\"/><topic id=\"7\" order=\"0\" shape=\"rounded rectangle\" text=\"Freelancing\"/></topic><topic id=\"8\" order=\"0\" text=\"Relations\"><topic id=\"9\" order=\"0\" shape=\"rounded rectangle\" text=\"Heart\"/></topic><topic id=\"10\" order=\"0\" text=\"Resources\"><topic id=\"11\" order=\"0\" text=\"Property\"><topic id=\"12\" order=\"0\" shape=\"rounded rectangle\" text=\"House\"/><topic id=\"13\" order=\"0\" shape=\"rounded rectangle\" text=\"Land\"/></topic><topic id=\"14\" order=\"0\" text=\"Vehicles\"><topic id=\"15\" order=\"0\" shape=\"rounded rectangle\" text=\"Bike\"/><topic id=\"16\" order=\"0\" shape=\"rounded rectangle\" text=\"Car\"/></topic></topic></topic></map>"
+}
