@@ -5,12 +5,14 @@
     "27613d0f-be52-44a0-a54b-a9ca7b3b6827",
     "4372025b-510d-42cb-8e6b-e98489c107e4",
     "0f1065fe-3ae6-4fd2-bae1-e2d4272ea62b",
-    "45b438fc-6461-43cc-9bc7-16543ff10b9e"
+    "45b438fc-6461-43cc-9bc7-16543ff10b9e",
+    "6b288340-07ad-4e84-895d-8a32396ab377",
+    "35222164-11f9-40f8-b1ff-04ac703de256"
   ],
   "pinnedIds": [],
   "pinnedResourceIds": [],
-  "activeId": "45b438fc-6461-43cc-9bc7-16543ff10b9e",
-  "focusedPaneId": "45b438fc-6461-43cc-9bc7-16543ff10b9e",
+  "activeId": "35222164-11f9-40f8-b1ff-04ac703de256",
+  "focusedPaneId": "35222164-11f9-40f8-b1ff-04ac703de256",
   "splitLayout": null,
   "resources": [
     {
@@ -39,7 +41,7 @@
       "parentId": "resource-scratchpad"
     }
   ],
-  "selectedResourceId": "90d55508-76d2-45e1-8f20-7a795ce458c1",
+  "selectedResourceId": "3656ef35-5ca2-417a-9c2f-f3d6ea036ff7",
   "expandedResourceIds": [
     "resource-scratchpad",
     "3656ef35-5ca2-417a-9c2f-f3d6ea036ff7",
