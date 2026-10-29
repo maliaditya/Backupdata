@@ -1,0 +1,101 @@
+{
+  "id": "4372025b-510d-42cb-8e6b-e98489c107e4",
+  "name": "Untitled canvas",
+  "updatedAt": 1793215946163,
+  "previewUpdatedAt": 1793215945353,
+  "elements": [
+    {
+      "type": "image",
+      "version": 75,
+      "versionNonce": 2060059542,
+      "isDeleted": false,
+      "id": "lJxXLWMJXpb2ed9XvpI6e",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 415.8189910979229,
+      "y": 219,
+      "strokeColor": "transparent",
+      "backgroundColor": "#ffc9c9",
+      "width": 632.3620178041543,
+      "height": 508,
+      "seed": 817652246,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1792679645081,
+      "link": null,
+      "locked": false,
+      "status": "pending",
+      "fileId": "4546b136280c0a38e35fcbbea73b5d2a56568394",
+      "scale": [
+        1,
+        1
+      ]
+    },
+    {
+      "type": "freedraw",
+      "version": 3,
+      "versionNonce": 1542707990,
+      "isDeleted": false,
+      "id": "Hc50J1VFUncM8EHnbxpuI",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1090.806645846727,
+      "y": 402.8544542557437,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "#ffc9c9",
+      "width": 0.0001,
+      "height": 0.0001,
+      "seed": 1250063306,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1792679646878,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0001,
+          0.0001
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "simulatePressure": true,
+      "pressures": []
+    }
+  ],
+  "appState": {
+    "theme": "dark",
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": null,
+    "zoom": {
+      "value": 1
+    },
+    "scrollX": 0,
+    "scrollY": 0
+  },
+  "resourceId": "resource-scratchpad",
+  "fileMeta": {
+    "4546b136280c0a38e35fcbbea73b5d2a56568394": {
+      "mimeType": "image/png",
+      "created": 1792679531406,
+      "lastRetrieved": 1792679531406,
+      "checksum": "2nw2:vjwfhz",
+      "byteLength": 124274
+    }
+  }
+}
