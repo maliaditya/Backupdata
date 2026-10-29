@@ -1,7 +1,7 @@
 {
   "format": "alleviate-github-backup",
   "version": 1,
-  "updatedAt": "2026-10-29T10:04:41.989Z",
+  "updatedAt": "2026-10-29T11:16:13.954Z",
   "files": {
     "app-data/YWxsZXZpYXRlLWNhbnZhcy1kb2N1bWVudHMtdjItbWlncmF0ZWQ.json": "25de92bda2ea6e7306c478906d9129a828e70bbdff7a9888e6f198440460e757",
     "books/pdfs/index.json": "3db652ae4e93129114e73b31d7be170a8361f0b0bc637ea554ab3f4920feacd4",
@@ -77,7 +77,7 @@
     "canvases/Mjc2MTNkMGYtYmU1Mi00NGEwLWE1NGItYTljYTdiM2I2ODI3/canvas.json": "ab120dd1f5300169536b2530f18a0bcfc7ff0a90355c4c26f793db7cb84c5cdf",
     "canvases/MzUyMjIxNjQtMTFmOS00MGY4LWIxZmYtMDRhYzcwM2RlMjU2/canvas.json": "4b0d02c9c8a43e2143be74d6072bc1cfaaccfaec87d3d3ef31109b661a60a661",
     "canvases/NDM3MjAyNWItNTEwZC00MmNiLThlNmItZTk4NDg5YzEwN2U0/canvas.json": "e450908dc3c6e420fceb72589fa1bfd3e3b9fda66d609b4e59020469c35f793f",
-    "canvases/NDViNDM4ZmMtNjQ2MS00M2NjLTliYzctMTY1NDNmZjEwYjll/canvas.json": "7c711117c2b7f3e2eacbe13df11c532e6e3228ffe6feef20eb7e50164c982563",
+    "canvases/NDViNDM4ZmMtNjQ2MS00M2NjLTliYzctMTY1NDNmZjEwYjll/canvas.json": "881470481faf988485fda0032f26643b449c4a5093650624348cb655cad26d1e",
     "canvases/NmIyODgzNDAtMDdhZC00ZTg0LTg5NWQtOGEzMjM5NmFiMzc3/canvas.json": "13717d67e0755d8c72596caf1f1c2659ec51cd8ad8111ff8830acd9cdd523e43",
     "canvases/ZGRlNTU3MmYtM2ZmMy00YmNjLWI4NmMtYTAyMTNhOGM1ZDI5/canvas.json": "906b8e9f79793c9a85249dba2c94324807aaa5f9c07c359dc35cf08829cdd286",
     "canvases/ZjE3ZDFmZTUtYzVkOS00YmY3LThmZWEtYmE3NjRmZTIzNjE1/canvas.json": "651f62c535fccbb50c7e23d0e424aaf003d21af1061ae3491dfdce9002209aa3"
