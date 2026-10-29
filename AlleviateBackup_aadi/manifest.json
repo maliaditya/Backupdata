@@ -1,16 +1,16 @@
 {
   "format": "alleviate-github-backup",
   "version": 1,
-  "updatedAt": "2026-10-29T03:40:31.151Z",
+  "updatedAt": "2026-10-29T09:57:01.265Z",
   "files": {
     "app-data/YWxsZXZpYXRlLWNhbnZhcy1kb2N1bWVudHMtdjItbWlncmF0ZWQ.json": "25de92bda2ea6e7306c478906d9129a828e70bbdff7a9888e6f198440460e757",
     "books/pdfs/index.json": "3db652ae4e93129114e73b31d7be170a8361f0b0bc637ea554ab3f4920feacd4",
     "canvases/images-index.json": "da8df678bc8a60a1d3d286e3ffbe7682ee11d39f82ec76822ffac7fed8ad58e6",
-    "canvases/index.json": "d2a58b188fc6c194d46d4b4febb7d840d569160a066f9884201921abce27fc9e",
+    "canvases/index.json": "bdc278828376139f57edbb2a03f9cae69dbba1d4d0b2b4a0e35ac8c6c40e07bf",
     "canvases/workspace.json": "9d85672b6a6a59cbf9c3650a724eacf01bca1d30d72d271628c3c35d261d355d",
     "mind-maps/index.json": "1335b8d367981d1ced7d405dcff0d8c02645b86b243f17a4479fdc34f9656fb9",
     "mind-maps/maps/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0.json": "04501c2924adffd6448d60fdda718d79ce886bdbd9af93833284a014cb206bd7",
-    "mind-maps/state-index.json": "d32cd9e3a44929f9563b425a944c0a93e50513c4711ee51edc4508dd66dd4aa4",
+    "mind-maps/state-index.json": "bfe165289083311aaaa9ad3601feb124fa19cdac0e654e693cbbf35beae98938",
     "mind-maps/state/YWxsZXZpYXRlLXdpc2VtYXBwaW5nLW1hcHMtdjE.json": "c691ae3491a41f6480eef256b8ca91f223e24beeb3f93a2314e7bedd2c4da0c3",
     "mind-maps/state/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0LW9iamVjdC1pZHM.json": "8bf27ac7563d3b650cdc156054bf019915c7f51c2561755844854e92b9a38eb8",
     "mind-maps/state/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0LW9iamVjdHM.json": "23284ce1085b79c93ab0f6de948d6f1cc447c4b212d4923143021adaa914c370",
@@ -72,7 +72,15 @@
     "canvases/ZTE5YzY3OWItZDVjMy00MDE3LWE0MWItMDJlYTQxMTM5Y2Uy/images/NDc5NjM3OWQ1MTYxMjBiYTQ2YTQzZmEwN2EzMjcyOTJjOWFmYzliYg.png": "5276b67dcb17cde12cc7c33cefbd5a4f3640fd71bbd2c3ef18129401ab3de9e8",
     "canvases/ZTE5YzY3OWItZDVjMy00MDE3LWE0MWItMDJlYTQxMTM5Y2Uy/images/ODVhODQ0MmRhNTJjODYxNTM1Y2YxZThjMTcwYjljNWQ4YTZkOGNjNw.png": "7933c31630200b94c8e12d3b7cfbdca159fa0a7301e247db6a5d3b308b5d0315",
     "canvases/ZTE5YzY3OWItZDVjMy00MDE3LWE0MWItMDJlYTQxMTM5Y2Uy/images/YmQ3Y2M3ZmQ2MzkxMmJhOGFiZjdmMGRjOTE4YmZkZmM0NDliNzM5OA.png": "e1eb7877016e80622658bb792e71ed9d9632263584ceb2aea05a3e02b39888fd",
-    "mind-maps/state/YWxsZXZpYXRlLXdpc2VtYXBwaW5nLW9iamVjdHMtdjE.json": "07e7251b5e7b2277da8f94ccb0a9d66e6ae9db4412191a5b41bd9784a5fef97c"
+    "mind-maps/state/YWxsZXZpYXRlLXdpc2VtYXBwaW5nLW9iamVjdHMtdjE.json": "07e7251b5e7b2277da8f94ccb0a9d66e6ae9db4412191a5b41bd9784a5fef97c",
+    "canvases/MGYxMDY1ZmUtM2FlNi00ZmQyLWJhZTEtZTJkNDI3MmVhNjJi/canvas.json": "9058a8f224d4be1e769f8cc1d170438c5baa876c3f0a5b4e770db0fbef17e6ed",
+    "canvases/Mjc2MTNkMGYtYmU1Mi00NGEwLWE1NGItYTljYTdiM2I2ODI3/canvas.json": "ab120dd1f5300169536b2530f18a0bcfc7ff0a90355c4c26f793db7cb84c5cdf",
+    "canvases/MzUyMjIxNjQtMTFmOS00MGY4LWIxZmYtMDRhYzcwM2RlMjU2/canvas.json": "4b0d02c9c8a43e2143be74d6072bc1cfaaccfaec87d3d3ef31109b661a60a661",
+    "canvases/NDM3MjAyNWItNTEwZC00MmNiLThlNmItZTk4NDg5YzEwN2U0/canvas.json": "e450908dc3c6e420fceb72589fa1bfd3e3b9fda66d609b4e59020469c35f793f",
+    "canvases/NDViNDM4ZmMtNjQ2MS00M2NjLTliYzctMTY1NDNmZjEwYjll/canvas.json": "7c711117c2b7f3e2eacbe13df11c532e6e3228ffe6feef20eb7e50164c982563",
+    "canvases/NmIyODgzNDAtMDdhZC00ZTg0LTg5NWQtOGEzMjM5NmFiMzc3/canvas.json": "13717d67e0755d8c72596caf1f1c2659ec51cd8ad8111ff8830acd9cdd523e43",
+    "canvases/ZGRlNTU3MmYtM2ZmMy00YmNjLWI4NmMtYTAyMTNhOGM1ZDI5/canvas.json": "906b8e9f79793c9a85249dba2c94324807aaa5f9c07c359dc35cf08829cdd286",
+    "canvases/ZjE3ZDFmZTUtYzVkOS00YmY3LThmZWEtYmE3NjRmZTIzNjE1/canvas.json": "651f62c535fccbb50c7e23d0e424aaf003d21af1061ae3491dfdce9002209aa3"
   },
   "deleted": [
     "app-data/YWxsZXZpYXRlX2FjY2Vzc190b2tlbjphYWRp.json",
