@@ -1,11 +1,11 @@
 {
   "keys": [
     "alleviate-wisemapping-objects-v1",
-    "alleviate-resources-default-default-seeded",
+    "alleviate-resources-default-object-ids",
     "alleviate-resources-default-xml",
-    "alleviate-resources-default-feedback-action-node-ids",
-    "alleviate-wisemapping-maps-v1",
     "alleviate-resources-default-objects",
-    "alleviate-resources-default-object-ids"
+    "alleviate-resources-default-default-seeded",
+    "alleviate-wisemapping-maps-v1",
+    "alleviate-resources-default-feedback-action-node-ids"
   ]
 }
