@@ -1,0 +1,13 @@
+{
+  "id": "27613d0f-be52-44a0-a54b-a9ca7b3b6827",
+  "name": "Important commands",
+  "updatedAt": 1792673828784,
+  "previewUpdatedAt": 1792673798247,
+  "elements": [],
+  "appState": {
+    "theme": "dark"
+  },
+  "kind": "note",
+  "content": "gh release upload v0.1.1 \"release\\Alleviate-Setup-0.1.1.exe\" --repo maliaditya/Alleviate --clobber",
+  "resourceId": "resource-scratchpad"
+}
