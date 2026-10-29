@@ -1,0 +1,50 @@
+{
+  "id": "6b288340-07ad-4e84-895d-8a32396ab377",
+  "name": "Untitled canvas",
+  "updatedAt": 1793172118101,
+  "previewUpdatedAt": 1793172118101,
+  "elements": [
+    {
+      "type": "embeddable",
+      "version": 73,
+      "versionNonce": 2082699991,
+      "isDeleted": false,
+      "id": "Soamb3l68SYcp6jtOkT1r",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 311,
+      "y": 266,
+      "strokeColor": "transparent",
+      "backgroundColor": "transparent",
+      "width": 315,
+      "height": 560,
+      "seed": 1336648550,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [],
+      "updated": 1793172116823,
+      "link": "https://www.youtube.com/shorts/JBR-7b6161E",
+      "locked": false,
+      "validated": true
+    }
+  ],
+  "appState": {
+    "theme": "dark",
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": null,
+    "zoom": {
+      "value": 1
+    },
+    "scrollX": 0,
+    "scrollY": 0
+  },
+  "resourceId": "3656ef35-5ca2-417a-9c2f-f3d6ea036ff7",
+  "fileMeta": {}
+}
