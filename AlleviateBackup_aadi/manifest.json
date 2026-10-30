@@ -1,7 +1,7 @@
 {
   "format": "alleviate-github-backup",
   "version": 1,
-  "updatedAt": "2026-10-29T11:26:41.655Z",
+  "updatedAt": "2026-10-30T10:30:02.025Z",
   "files": {
     "app-data/YWxsZXZpYXRlLWNhbnZhcy1kb2N1bWVudHMtdjItbWlncmF0ZWQ.json": "25de92bda2ea6e7306c478906d9129a828e70bbdff7a9888e6f198440460e757",
     "books/pdfs/index.json": "3db652ae4e93129114e73b31d7be170a8361f0b0bc637ea554ab3f4920feacd4",
@@ -10,7 +10,7 @@
     "canvases/workspace.json": "d7d530bcd4bbd4aaeec593f7059d5478cc0f86a83564654c1c6ace58d8922969",
     "mind-maps/index.json": "1335b8d367981d1ced7d405dcff0d8c02645b86b243f17a4479fdc34f9656fb9",
     "mind-maps/maps/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0.json": "75a031c0c4e84312f14f5396231de49cab91b3b6d187f0d62c1eae0c79d3046d",
-    "mind-maps/state-index.json": "bfe165289083311aaaa9ad3601feb124fa19cdac0e654e693cbbf35beae98938",
+    "mind-maps/state-index.json": "411737ffae30dd020af1bce1b63400664040d517626700d6620d909a0dcbc14a",
     "mind-maps/state/YWxsZXZpYXRlLXdpc2VtYXBwaW5nLW1hcHMtdjE.json": "4d2b675da5270a64cabd06f1b7cf6bc44f58204d569004a859452952f08af8ce",
     "mind-maps/state/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0LW9iamVjdC1pZHM.json": "76fcc5b1d8661dd74eaf8416f5ae5c5d5fd4f4558b42bf11e716d0b925fba470",
     "mind-maps/state/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0LW9iamVjdHM.json": "dbef6930f76222f470e7a45d4f9f1bbc8fd2b6b9096b48c4fbc82649e9af563f",
@@ -19,11 +19,11 @@
     "mind-maps/state/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0LXhtbA.json": "2b68fdb4bd633cf8c9e596bbdccec9189ab56db807956043599cbcce621dfc1e",
     "app-data/YWxsZXZpYXRlLWJvb2tzLXdvcmtzcGFjZS12MQ.json": "4daec81dde53c203ca414b819c8ca4a3e4138c5f94ef16fead151dc837f959c6",
     "app-data/YWxsZXZpYXRlLWNhbGVuZGFyLWV2ZW50cy12MQ.json": "0f4abaa76d14bb6e7ac215c269c93e81017c1feb79331c2e5406737ee6745e51",
-    "app-data/YWxsZXZpYXRlLWNhbnZhcy10aHVtYm5haWwtaW5kZXgtdjE.json": "dd8f895cc48016a522c80c8ba20989f1d2d657472fb7c2b815e942322dc86cb4",
+    "app-data/YWxsZXZpYXRlLWNhbnZhcy10aHVtYm5haWwtaW5kZXgtdjE.json": "dd29cb929c9621ebe8893d46927a36b53f17f004cef3d07c87097fe8006332af",
     "app-data/YWxsZXZpYXRlLWNvdW50ZG93bnMtdjE.json": "a0b7a37d59bddfcb610db2dc258ecfbe3e6f58dfdb3e4edd87dc836688f4ef09",
     "app-data/YWxsZXZpYXRlLWVpc2VuaG93ZXItdGFza3MtdjE.json": "cefb3512db471c7f22d0a9816f3fd99133ecd5a7bf6d9470ff9f9776cd8c2083",
     "app-data/YWxsZXZpYXRlLWVpc2VuaG93ZXItY2FsZW5kYXItcXVhZHJhbnRzLXYx.json": "ff566266e565542f6a6f1d30760c63ad3a4b1025451b9f76f05debcc9337fd80",
-    "app-data/YWxsZXZpYXRlLWZlZWRiYWNrLWxvb3BzLXYx.json": "400d0d7a53cd6bcbcdd33623be697915339d2f997b4e881fe2ae4601e2200324",
+    "app-data/YWxsZXZpYXRlLWZlZWRiYWNrLWxvb3BzLXYx.json": "f40e3663b94f21de264eb0a52e5a46089c599af9a58e34f41501e3053b2f3b78",
     "canvases/MGNhZmU5OGEtYWFjMy00MWJjLThiNDctYjRlNWE4OTA1NjMy/images/index.json": "ae8b47d4bcfc914b9e202bb1e3fff9fa0e87bc1d0254e52c87e66df711289997",
     "canvases/MGNhZmU5OGEtYWFjMy00MWJjLThiNDctYjRlNWE4OTA1NjMy/images/YjdmYzNlYTA4OGEzYjVjNTBhOWQzMmFjYTllZWI3OWIzMWIyZDMzMQ.png": "d787a3bbba20f27ee1f6c6fdb4309809e25b0dbd9dd10fa17ac819b6d00ea834",
     "canvases/MGYxMDY1ZmUtM2FlNi00ZmQyLWJhZTEtZTJkNDI3MmVhNjJi/images/index.json": "288646d9e56e93309e72d9c16b586e200f70da93b5eddf9b683f5b2e97088140",
@@ -80,7 +80,9 @@
     "canvases/NDViNDM4ZmMtNjQ2MS00M2NjLTliYzctMTY1NDNmZjEwYjll/canvas.json": "881470481faf988485fda0032f26643b449c4a5093650624348cb655cad26d1e",
     "canvases/NmIyODgzNDAtMDdhZC00ZTg0LTg5NWQtOGEzMjM5NmFiMzc3/canvas.json": "13717d67e0755d8c72596caf1f1c2659ec51cd8ad8111ff8830acd9cdd523e43",
     "canvases/ZGRlNTU3MmYtM2ZmMy00YmNjLWI4NmMtYTAyMTNhOGM1ZDI5/canvas.json": "906b8e9f79793c9a85249dba2c94324807aaa5f9c07c359dc35cf08829cdd286",
-    "canvases/ZjE3ZDFmZTUtYzVkOS00YmY3LThmZWEtYmE3NjRmZTIzNjE1/canvas.json": "651f62c535fccbb50c7e23d0e424aaf003d21af1061ae3491dfdce9002209aa3"
+    "canvases/ZjE3ZDFmZTUtYzVkOS00YmY3LThmZWEtYmE3NjRmZTIzNjE1/canvas.json": "651f62c535fccbb50c7e23d0e424aaf003d21af1061ae3491dfdce9002209aa3",
+    "app-data/YWxsZXZpYXRlLXByb2ZpbGUtdjE6YWFkaQ.json": "bd2880ae7255fbc624f4cd968c39c89c2a4dc0d9b74351d94b5e6a2909ed8f76",
+    "mind-maps/state/YWxsZXZpYXRlLXJlc291cmNlcy1kZWZhdWx0LW9iamVjdC1pY29ucw.json": "81c604db71900790c35854ea9e7c6dff1d23154048abf3bc97281ada9caf032f"
   },
   "deleted": [
     "app-data/YWxsZXZpYXRlX2FjY2Vzc190b2tlbjphYWRp.json",
