@@ -3,10 +3,8 @@
   "images": [
     {
       "fileId": "b7fc3ea088a3b5c50a9d32aca9eeb79b31b2d331",
-      "path": "canvases/MGNhZmU5OGEtYWFjMy00MWJjLThiNDctYjRlNWE4OTA1NjMy/images/YjdmYzNlYTA4OGEzYjVjNTBhOWQzMmFjYTllZWI3OWIzMWIyZDMzMQ.png",
-      "mimeType": "image/png",
-      "created": 1792578217893,
-      "lastRetrieved": 1792578217893
+      "path": "canvases/MGNhZmU5OGEtYWFjMy00MWJjLThiNDctYjRlNWE4OTA1NjMy/images/YjdmYzNlYTA4OGEzYjVjNTBhOWQzMmFjYTllZWI3OWIzMWIyZDMzMQ.vndgithubrawjson",
+      "mimeType": "application/vnd.github.raw+json; charset=utf-8"
     }
   ]
 }
