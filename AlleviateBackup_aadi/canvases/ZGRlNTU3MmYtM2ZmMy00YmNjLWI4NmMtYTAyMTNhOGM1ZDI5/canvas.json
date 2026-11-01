@@ -1,8 +1,8 @@
 {
   "id": "dde5572f-3ff3-4bcc-b86c-a0213a8c5d29",
   "name": "Action Decoded",
-  "updatedAt": 1793215944159,
-  "previewUpdatedAt": 1793215944159,
+  "updatedAt": 1793282101124,
+  "previewUpdatedAt": 1793282095495,
   "elements": [
     {
       "type": "arrow",
@@ -7141,10 +7141,10 @@
     "viewBackgroundColor": "#ffffff",
     "gridSize": null,
     "zoom": {
-      "value": 0.5000000000000001
+      "value": 1.2413926851582253
     },
-    "scrollX": 1023.321428571428,
-    "scrollY": 2098.111111111111
+    "scrollX": 268.4270544994935,
+    "scrollY": -373.2124014756495
   },
   "resourceId": "3656ef35-5ca2-417a-9c2f-f3d6ea036ff7",
   "fileMeta": {}
