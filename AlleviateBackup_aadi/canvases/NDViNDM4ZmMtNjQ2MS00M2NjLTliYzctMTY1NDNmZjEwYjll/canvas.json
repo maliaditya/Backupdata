@@ -1,8 +1,8 @@
 {
   "id": "45b438fc-6461-43cc-9bc7-16543ff10b9e",
   "name": "Untitled canvas",
-  "updatedAt": 1793268071251,
-  "previewUpdatedAt": 1793268071251,
+  "updatedAt": 1793291247092,
+  "previewUpdatedAt": 1793291247092,
   "elements": [
     {
       "type": "text",
@@ -896,10 +896,10 @@
     "viewBackgroundColor": "#ffffff",
     "gridSize": null,
     "zoom": {
-      "value": 1.2413926851582253
+      "value": 0.8273363111802293
     },
-    "scrollX": -136.22673534751317,
-    "scrollY": 163.7688556762414
+    "scrollX": 219.20370573144197,
+    "scrollY": 31.791290738382017
   },
   "resourceId": "90d55508-76d2-45e1-8f20-7a795ce458c1",
   "fileMeta": {
