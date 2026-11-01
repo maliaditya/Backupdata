@@ -1,8 +1,8 @@
 {
   "id": "f17d1fe5-c5d9-4bf7-8fea-ba764fe23615",
   "name": "You are it",
-  "updatedAt": 1793172151029,
-  "previewUpdatedAt": 1793172130697,
+  "updatedAt": 1793273571707,
+  "previewUpdatedAt": 1793273526700,
   "elements": [
     {
       "type": "line",
@@ -12870,8 +12870,8 @@
     },
     {
       "type": "embeddable",
-      "version": 740,
-      "versionNonce": 1086903415,
+      "version": 742,
+      "versionNonce": 1288105688,
       "isDeleted": false,
       "id": "GwoSfmzRo1ZkVp2kdDYZW",
       "fillStyle": "solid",
@@ -12893,7 +12893,7 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1793172130235,
+      "updated": 1793273526698,
       "link": "https://www.youtube.com/shorts/a7cyHYwIqqU",
       "locked": false,
       "validated": true
@@ -16194,8 +16194,8 @@
     },
     {
       "type": "embeddable",
-      "version": 423,
-      "versionNonce": 741741177,
+      "version": 425,
+      "versionNonce": 2055604904,
       "isDeleted": false,
       "id": "amALl0jIVlpwELM4D1Y3j",
       "fillStyle": "solid",
@@ -16222,7 +16222,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1793172130235,
+      "updated": 1793273526698,
       "link": "https://www.youtube.com/watch?v=6FUoXnSpvb0",
       "locked": false,
       "validated": true
@@ -51882,8 +51882,8 @@
     },
     {
       "type": "embeddable",
-      "version": 121,
-      "versionNonce": 1740975511,
+      "version": 123,
+      "versionNonce": 1622365144,
       "isDeleted": false,
       "id": "N52E21wiIi83Tr7u_SUtQ",
       "fillStyle": "solid",
@@ -51910,7 +51910,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1793172130235,
+      "updated": 1793273526698,
       "link": "https://www.youtube.com/shorts/jltg8S1TKCA",
       "locked": false,
       "validated": true
@@ -52443,8 +52443,8 @@
     },
     {
       "type": "embeddable",
-      "version": 58,
-      "versionNonce": 1151294297,
+      "version": 60,
+      "versionNonce": 901674408,
       "isDeleted": false,
       "id": "2aPbxdOw7ou-OHTTiSm8w",
       "fillStyle": "solid",
@@ -52466,7 +52466,7 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1793172130235,
+      "updated": 1793273526698,
       "link": "https://www.youtube.com/shorts/svGbKbinQBM",
       "locked": false,
       "validated": true
@@ -60562,8 +60562,8 @@
     },
     {
       "type": "embeddable",
-      "version": 206,
-      "versionNonce": 1545167543,
+      "version": 208,
+      "versionNonce": 1674254552,
       "isDeleted": false,
       "id": "M7b6xaMscCMY7cYOafj5b",
       "fillStyle": "solid",
@@ -60585,7 +60585,7 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1793172130235,
+      "updated": 1793273526698,
       "link": "https://www.youtube.com/shorts/Y21Z3_df8QQ",
       "locked": false,
       "validated": true
@@ -64131,10 +64131,10 @@
     "viewBackgroundColor": "#ffffff",
     "gridSize": null,
     "zoom": {
-      "value": 1.0963888804789934
+      "value": 0.5
     },
-    "scrollX": 1112.253516080047,
-    "scrollY": -3973.69394332866
+    "scrollX": 1904.831482335464,
+    "scrollY": -1527.4091040827834
   },
   "resourceId": "3656ef35-5ca2-417a-9c2f-f3d6ea036ff7",
   "fileMeta": {
