@@ -8,10 +8,15 @@
   ],
   "activeId": "d7670035-5ef7-4cbc-a6c2-eda46a446319",
   "focusedPaneId": "d7670035-5ef7-4cbc-a6c2-eda46a446319",
+  "resources": [
+    {
+      "id": "resource-scratchpad",
+      "name": "Scratchpad",
+      "parentId": null
+    }
+  ],
+  "selectedResourceId": "resource-scratchpad",
   "expandedResourceIds": [
-    "resource-scratchpad",
-    "3656ef35-5ca2-417a-9c2f-f3d6ea036ff7",
-    "90d55508-76d2-45e1-8f20-7a795ce458c1",
-    "b8b15a43-6606-450f-82de-a7697af55a1b"
+    "resource-scratchpad"
   ]
 }
